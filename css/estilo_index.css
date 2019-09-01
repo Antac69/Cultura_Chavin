@@ -27,6 +27,11 @@ div
     flex-wrap: wrap;
 }
 
+.container h1
+{
+    padding: 20px;
+    display: flex;
+}
 .titulo
 {
     display: flex;
