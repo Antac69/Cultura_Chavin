@@ -41,3 +41,29 @@ h1
     padding: 20px;
     display: flex;
 }
+
+.menu
+{
+    height: inherit;
+}
+
+.link
+{
+    color: white;
+    text-decoration: none;
+}
+
+ol
+{
+    margin: 0;
+    border: 20px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li
+{
+    padding: 0 50px 20px 50px;
+    font-size: 1.3em;
+}
