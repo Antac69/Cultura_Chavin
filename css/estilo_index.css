@@ -4,3 +4,8 @@ body
     padding: 0;
     background-image: url("https://live.staticflickr.com/65535/48655922786_86a66d2e19_o.jpg");
 }
+
+.header
+{
+    display: block;
+}
