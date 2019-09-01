@@ -9,6 +9,11 @@ body
     display: inherit;
 }
 
+.mapa
+{
+    float: right;
+}
+
 h2
 {
     color: rgb(0, 128, 0);
