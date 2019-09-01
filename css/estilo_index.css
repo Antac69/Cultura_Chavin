@@ -20,7 +20,7 @@ div
     background-color: rgba(0, 0, 0, 0.85);
     color: white;
     width: 60em;
-    display: inline;
+    display: inherit;
     margin: 0 auto;
     padding: 0 20px;
     justify-content: center;
