@@ -14,3 +14,15 @@ div
 {
     display: inherit;
 }
+
+.container
+{
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    width: 60em;
+    display: inline;
+    margin: 0 auto;
+    padding: 0 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
