@@ -9,3 +9,8 @@ body
 {
     display: block;
 }
+
+div
+{
+    display: inherit;
+}
