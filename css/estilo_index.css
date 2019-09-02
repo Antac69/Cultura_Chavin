@@ -125,3 +125,11 @@ footer
 {
     padding: 0 0 0 11px;
 }
+hr
+{
+  margin: 0;
+}
+.hr 
+{
+    padding: 20px 0 10px 0;
+}
