@@ -115,3 +115,13 @@ footer
 {
     display: block;
 }
+
+.correo
+{
+    padding: 0 400px 10px 400px;
+}
+
+.correo figure
+{
+    padding: 0 0 0 11px;
+}
