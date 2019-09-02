@@ -110,3 +110,26 @@ li
     padding: 0 50px 20px 50px;
     font-size: 1.3em;
 }
+
+footer
+{
+    display: block;
+}
+
+.correo
+{
+    padding: 0 400px 10px 400px;
+}
+
+.correo figure
+{
+    padding: 0 0 0 11px;
+}
+hr
+{
+  margin: 0;
+}
+.hr 
+{
+    padding: 20px 0 10px 0;
+}
