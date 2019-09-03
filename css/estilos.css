@@ -9,7 +9,12 @@ body
     display: inherit;
 }
 
-.mapa
+.im-mapa
+{
+    float: right;
+}
+
+.im-templo
 {
     float: right;
 }
@@ -29,7 +34,7 @@ h3,p
     margin: 0;
 }
 
-.Templo,.Arte, .Economia, .Final
+.Templo,.Arte , .Economia, .Final, .Resumen, .Descubrimiento
 {
     padding-right: 35px;
 }
