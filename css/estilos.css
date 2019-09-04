@@ -16,7 +16,10 @@ body
 
 .im-templo
 {
+    padding-top: 15px;
+    padding-left: 20px;
     float: right;
+    margin: 0;
 }
 
 article
@@ -34,9 +37,14 @@ h3,p
     margin: 0;
 }
 
-.Templo,.Arte , .Economia, .Final, .Resumen, .Descubrimiento
+.Templo,.Arte , .Economia, .Final, .Resumen, .Descubrimiento,.historia
 {
     padding-right: 35px;
+}
+
+.top
+{
+    padding: 15px 0 0 0;
 }
 
 .header
