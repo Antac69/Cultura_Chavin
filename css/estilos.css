@@ -11,6 +11,7 @@ body
 
 .im-mapa
 {
+    padding-bottom: 15px;
     padding-top: 15px;
     padding-left: 20px;
     float: right;
@@ -19,6 +20,7 @@ body
 
 .im-templo
 {
+    padding-bottom: 15px;
     padding-top: 15px;
     padding-left: 20px;
     float: right;
@@ -84,7 +86,7 @@ div
 .container h1
 {
     display: flex;
-    padding: 33px 0 0 0;
+    padding-top: 33px;
 }
 .titulo
 {
@@ -136,13 +138,11 @@ footer
 
 .correo
 {
-    padding: 0 400px 10px 400px;
+    padding-bottom: 10px;
+    text-align: center;
+
 }
 
-.correo figure
-{
-    padding: 0 0 0 11px;
-}
 hr
 {
   margin: 0;
