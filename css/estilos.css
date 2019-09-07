@@ -17,6 +17,10 @@ article
     text-align: justify;
 }
 
+.arqui-inicio
+{
+    height: 120px;
+}
 .im-mapa
 {
     padding-bottom: 15px;
@@ -49,6 +53,15 @@ article
     margin: 0;
 }
 
+.im-social
+{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    float: right;
+    margin: 0;
+}
+
 h2
 {
     color: rgb(0, 128, 0);
@@ -58,6 +71,11 @@ h2
 h3,p
 {
     margin: 0;
+}
+
+strong
+{
+    color: rgb(0, 128, 0);
 }
 
 .top
