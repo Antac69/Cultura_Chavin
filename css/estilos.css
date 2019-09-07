@@ -8,6 +8,7 @@ body
 {
     display: inherit;
 }
+
 article
 {
     display: inherit;
@@ -34,6 +35,20 @@ article
     margin: 0;
 }
 
+.im-agri
+{
+    padding-left: 20px;
+    float: right;
+    margin: 0;
+}
+
+.im-andes
+{
+    padding-left: 20px;
+    float: right;
+    margin: 0;
+}
+
 h2
 {
     color: rgb(0, 128, 0);
@@ -48,6 +63,11 @@ h3,p
 .top
 {
     padding: 15px 0 0 0;
+}
+
+h2.top
+{
+    margin-top: 0; 
 }
 
 .header
