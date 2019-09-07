@@ -8,6 +8,13 @@ body
 {
     display: inherit;
 }
+article
+{
+    display: inherit;
+    padding-left: 40px;
+    padding-right: 35px;
+    text-align: justify;
+}
 
 .im-mapa
 {
@@ -27,11 +34,6 @@ body
     margin: 0;
 }
 
-article
-{
-    padding-left: 40px;
-}
-
 h2
 {
     color: rgb(0, 128, 0);
@@ -41,12 +43,6 @@ h2
 h3,p
 {
     margin: 0;
-}
-
-article
-{
-    padding-right: 35px;
-    text-align: justify;
 }
 
 .top
